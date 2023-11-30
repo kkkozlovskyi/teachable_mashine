@@ -1,0 +1,9 @@
+.but{
+    background-color: #5cc72a;
+    border-radius: 10px;
+    box-shadow: 0, 4px, 6px;
+    
+}
+.but:hover{
+    background-color: #3f682c;
+}
